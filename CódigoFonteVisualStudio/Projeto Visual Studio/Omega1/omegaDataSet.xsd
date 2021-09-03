@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="omegaDataSet" targetNamespace="http://tempuri.org/omegaDataSet.xsd" xmlns:mstns="http://tempuri.org/omegaDataSet.xsd" xmlns="http://tempuri.org/omegaDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="omegaConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="omegaConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.Omega1.Properties.Settings.GlobalReference.Default.omegaConnectionString" Provider="MySql.Data.MySqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="usucliTableAdapter" GeneratorDataComponentClassName="usucliTableAdapter" Name="usucli" UserDataComponentName="usucliTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="omegaConnectionString (Settings)" DbObjectName="omega.usucli" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT `id_cli`, `login_cli`, `senha_cli`, `nome_cli`, `cpf_cli`, `cnpj_cli`, `razaosoc_cli`, `endereco_cli`, `telefone_cli`, `nome_fant_cli`, `email_cli`, `website_cli`, `chave_pri_cli`, `chave_pub_cli` FROM `usucli`</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="omegaDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="omegaDataSet" msprop:Generator_UserDSName="omegaDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="usucli" msprop:Generator_TableClassName="usucliDataTable" msprop:Generator_TableVarName="tableusucli" msprop:Generator_TablePropName="usucli" msprop:Generator_RowDeletingName="usucliRowDeleting" msprop:Generator_RowChangingName="usucliRowChanging" msprop:Generator_RowEvHandlerName="usucliRowChangeEventHandler" msprop:Generator_RowDeletedName="usucliRowDeleted" msprop:Generator_UserTableName="usucli" msprop:Generator_RowChangedName="usucliRowChanged" msprop:Generator_RowEvArgName="usucliRowChangeEvent" msprop:Generator_RowClassName="usucliRow">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

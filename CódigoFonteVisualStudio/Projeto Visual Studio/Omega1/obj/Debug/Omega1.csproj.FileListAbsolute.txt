@@ -1,0 +1,40 @@
+C:\Users\user\source\repos\Omega1\Omega1\bin\Debug\Omega1.exe.config
+C:\Users\user\source\repos\Omega1\Omega1\bin\Debug\Omega1.exe
+C:\Users\user\source\repos\Omega1\Omega1\bin\Debug\Omega1.pdb
+C:\Users\user\source\repos\Omega1\Omega1\obj\Debug\Omega1.frmCarrega.resources
+C:\Users\user\source\repos\Omega1\Omega1\obj\Debug\Omega1.Properties.Resources.resources
+C:\Users\user\source\repos\Omega1\Omega1\obj\Debug\Omega1.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Omega1\Omega1\obj\Debug\Omega1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Omega1\Omega1\obj\Debug\Omega1.exe
+C:\Users\user\source\repos\Omega1\Omega1\obj\Debug\Omega1.pdb
+C:\Users\user\source\repos\Omega1\Omega1\obj\Debug\Omega1.Views.frmLogin.resources
+C:\Users\user\source\repos\Omega1\Omega1\obj\Debug\Omega1.Views.frmPrincipal.resources
+C:\Users\user\source\repos\Omega1\Omega1\obj\Debug\Omega1.Views.frmCadastro.resources
+C:\Users\user\source\repos\Omega1\Omega1\bin\Debug\MySql.Data.dll
+C:\Users\user\source\repos\Omega1\Omega1\obj\Debug\Omega1.csproj.CopyComplete
+C:\Users\user\source\repos\Omega1\Omega1\bin\Debug\MySQL.Utility.dll
+C:\Users\user\source\repos\Omega1\Omega1\bin\Debug\Renci.SshNet.dll
+C:\Users\user\source\repos\Omega1\Omega1\obj\Debug\Omega1.Views.frmAjuda.resources
+C:\Users\user\source\repos\Omega1\Omega1\obj\Debug\Omega1.Views.frmCadastroPF.resources
+C:\Users\user\source\repos\Omega1\Omega1\obj\Debug\Omega1.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Omega1\Omega1\obj\Debug\Omega1.Views.frmCadastroCol.resources
+C:\Users\user\Desktop\NIVI\PIM\DESKTOP OMEGA\Projeto Visual Studio\Omega1\bin\Debug\Omega1.exe.config
+C:\Users\user\Desktop\NIVI\PIM\DESKTOP OMEGA\Projeto Visual Studio\Omega1\bin\Debug\Omega1.exe
+C:\Users\user\Desktop\NIVI\PIM\DESKTOP OMEGA\Projeto Visual Studio\Omega1\bin\Debug\Omega1.pdb
+C:\Users\user\Desktop\NIVI\PIM\DESKTOP OMEGA\Projeto Visual Studio\Omega1\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\NIVI\PIM\DESKTOP OMEGA\Projeto Visual Studio\Omega1\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\NIVI\PIM\DESKTOP OMEGA\Projeto Visual Studio\Omega1\obj\Debug\Omega1.csprojAssemblyReference.cache
+C:\Users\user\Desktop\NIVI\PIM\DESKTOP OMEGA\Projeto Visual Studio\Omega1\obj\Debug\Omega1.exe.config
+C:\Users\user\Desktop\NIVI\PIM\DESKTOP OMEGA\Projeto Visual Studio\Omega1\obj\Debug\Omega1.frmCarrega.resources
+C:\Users\user\Desktop\NIVI\PIM\DESKTOP OMEGA\Projeto Visual Studio\Omega1\obj\Debug\Omega1.Properties.Resources.resources
+C:\Users\user\Desktop\NIVI\PIM\DESKTOP OMEGA\Projeto Visual Studio\Omega1\obj\Debug\Omega1.Views.frmAjuda.resources
+C:\Users\user\Desktop\NIVI\PIM\DESKTOP OMEGA\Projeto Visual Studio\Omega1\obj\Debug\Omega1.Views.frmCadastro.resources
+C:\Users\user\Desktop\NIVI\PIM\DESKTOP OMEGA\Projeto Visual Studio\Omega1\obj\Debug\Omega1.Views.frmCadastroCol.resources
+C:\Users\user\Desktop\NIVI\PIM\DESKTOP OMEGA\Projeto Visual Studio\Omega1\obj\Debug\Omega1.Views.frmCadastroPF.resources
+C:\Users\user\Desktop\NIVI\PIM\DESKTOP OMEGA\Projeto Visual Studio\Omega1\obj\Debug\Omega1.Views.frmLogin.resources
+C:\Users\user\Desktop\NIVI\PIM\DESKTOP OMEGA\Projeto Visual Studio\Omega1\obj\Debug\Omega1.Views.frmPrincipal.resources
+C:\Users\user\Desktop\NIVI\PIM\DESKTOP OMEGA\Projeto Visual Studio\Omega1\obj\Debug\Omega1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\NIVI\PIM\DESKTOP OMEGA\Projeto Visual Studio\Omega1\obj\Debug\Omega1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\NIVI\PIM\DESKTOP OMEGA\Projeto Visual Studio\Omega1\obj\Debug\Omega1.csproj.CopyComplete
+C:\Users\user\Desktop\NIVI\PIM\DESKTOP OMEGA\Projeto Visual Studio\Omega1\obj\Debug\Omega1.exe
+C:\Users\user\Desktop\NIVI\PIM\DESKTOP OMEGA\Projeto Visual Studio\Omega1\obj\Debug\Omega1.pdb
